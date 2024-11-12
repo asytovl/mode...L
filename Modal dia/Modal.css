@@ -1,0 +1,8 @@
+.ChBox:checked + img{
+    border: 9px solid blue;
+}
+
+.ChBo{
+    left: -1000px;
+    position: fixed;
+}
